@@ -1,0 +1,3 @@
+1. Dime la media de baños y habitaciones que tengan las casas que cuesten más de 1 millón de dolares y las que menos.
+2. Tiene algo que ver el numero, de la vivienda, si es par o impar con el precio de la vivienda?
+3. Muestrame la relación que tiene la condición de la vivienda con el ROI, explica el resulado
